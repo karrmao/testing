@@ -61,11 +61,15 @@ input:invalid {
   border-radius: 4px;
 }
 
-.form-control {
-  margin-bottom: 8px;
+.form-label {
+  display: block;
+  margin-bottom: 4px;
 }
 
-.form-label {
-  display: inline-block;
-  margin-bottom: 4px;
+.form-input {
+  margin-bottom: 0;
+}
+
+.form-control {
+  margin-bottom: 8px;
 }
